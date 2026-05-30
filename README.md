@@ -4,11 +4,9 @@ This repository contains completed task submissions for the CodeAlpha Biotechnol
 
 ## Live Portfolio
 
-This repository is prepared as a GitHub Pages portfolio. After uploading the full package to the repository root, enable GitHub Pages from the `main` branch and use the live link:
+View the live internship portfolio here:
 
-```text
 https://meenavignesh-svg.github.io/CodeAlpha-Biotech-Internship/
-```
 
 ## Submission Overview
 
@@ -30,10 +28,9 @@ CodeAlpha-Biotech-Internship/
 |-- Task-2_Case-Study-Ginkgo-Bioworks/
 |   |-- CodeAlpha_Task2_Ginkgo_Bioworks_Case_Study.pdf
 |   `-- README.md
-|-- Task-4_Mini-Project-Proposal/
-|   |-- CodeAlpha_Task4_AI_ML_Applications_in_Biotechnology_Proposal.pdf
-|   `-- README.md
-`-- LinkedIn_Posts_and_Video_Script.pdf
+`-- Task-4_Mini-Project-Proposal/
+    |-- CodeAlpha_Task4_AI_ML_Applications_in_Biotechnology_Proposal.pdf
+    `-- README.md
 ```
 
 ## Internship Instructions Covered
@@ -41,7 +38,7 @@ CodeAlpha-Biotech-Internship/
 - Completed three biotechnology tasks from the CodeAlpha task list.
 - Prepared task files in PDF format.
 - Organized each task in a separate professional folder.
-- Included LinkedIn post and video explanation draft material.
+- Published a live portfolio website for the internship submission.
 
 ## Author
 
