@@ -2,6 +2,14 @@
 
 This repository contains completed task submissions for the CodeAlpha Biotechnology Internship.
 
+## Live Portfolio
+
+This repository is prepared as a GitHub Pages portfolio. After uploading the full package to the repository root, enable GitHub Pages from the `main` branch and use the live link:
+
+```text
+https://meenavignesh-svg.github.io/CodeAlpha-Biotech-Internship/
+```
+
 ## Submission Overview
 
 | Task | Title | Deliverable |
@@ -14,16 +22,18 @@ This repository contains completed task submissions for the CodeAlpha Biotechnol
 
 ```text
 CodeAlpha-Biotech-Internship/
-├── Task-1_Research-Report/
-│   ├── CodeAlpha_Task1_Recent_Advancements_in_Medical_Biotechnology_Report.pdf
-│   └── README.md
-├── Task-2_Case-Study-Ginkgo-Bioworks/
-│   ├── CodeAlpha_Task2_Ginkgo_Bioworks_Case_Study.pdf
-│   └── README.md
-├── Task-4_Mini-Project-Proposal/
-│   ├── CodeAlpha_Task4_AI_ML_Applications_in_Biotechnology_Proposal.pdf
-│   └── README.md
-└── LinkedIn_Posts_and_Video_Script.pdf
+|-- index.html
+|-- styles.css
+|-- Task-1_Research-Report/
+|   |-- CodeAlpha_Task1_Recent_Advancements_in_Medical_Biotechnology_Report.pdf
+|   `-- README.md
+|-- Task-2_Case-Study-Ginkgo-Bioworks/
+|   |-- CodeAlpha_Task2_Ginkgo_Bioworks_Case_Study.pdf
+|   `-- README.md
+|-- Task-4_Mini-Project-Proposal/
+|   |-- CodeAlpha_Task4_AI_ML_Applications_in_Biotechnology_Proposal.pdf
+|   `-- README.md
+`-- LinkedIn_Posts_and_Video_Script.pdf
 ```
 
 ## Internship Instructions Covered
